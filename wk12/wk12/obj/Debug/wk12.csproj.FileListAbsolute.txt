@@ -1,0 +1,5 @@
+C:\wk11\wk12\wk12\bin\wk12.dll
+C:\wk11\wk12\wk12\bin\wk12.pdb
+C:\wk11\wk12\wk12\obj\Debug\wk12.csprojResolveAssemblyReference.cache
+C:\wk11\wk12\wk12\obj\Debug\wk12.dll
+C:\wk11\wk12\wk12\obj\Debug\wk12.pdb
